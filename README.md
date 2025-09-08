@@ -56,7 +56,7 @@ Copy code
 
 ## Project Structure
 titanic-survival-prediction/
-├── data/ # CSV files
+├── titanic/ # CSV files
 ├── notebooks/ # Jupyter notebooks
 ├── results/ # plots and model outputs
 ├── README.md # this file
