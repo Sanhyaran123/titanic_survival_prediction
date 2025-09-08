@@ -58,6 +58,5 @@ Copy code
 titanic-survival-prediction/
 ├── titanic/ # CSV files
 ├── notebooks/ # Jupyter notebooks
-├── results/ # plots and model outputs
 ├── README.md # this file
 └── requirements.txt # Python libraries
